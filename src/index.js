@@ -14,6 +14,8 @@ const getFonts = function () {
         'Pixel': require('base64-loader!./Grand9K-Pixel.ttf'),
         // Xtraflexidisc is saved as Scratch for backwards-compat, this needs visual renaming
         'Scratch': require('base64-loader!./Xtraflexidisc.otf'),
+        'Minecraft': require('base64-loader!./Minecraft-Regular.otf'),
+        'Minecraft Bold': require('base64-loader!./Minecraft-Bold.otf'),
         'Technological': require('base64-loader!./MonospaceBold.ttf'),
         'Bubbly': require('base64-loader!./QTKooper.otf'),
         'Bits and Bytes': require('base64-loader!./freecam-v2.ttf'),
